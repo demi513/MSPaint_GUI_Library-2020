@@ -1,9 +1,9 @@
 # MSPaint GUI library
 
 ## What I learned
-  - Automating GUI Interactions with pyautogui: One of the key takeaways from working on this project was learning how to automate GUI interactions using the pyautogui library.
-  - Tesseract: Gained hands-on experience with OCR using Tesseract to extract text from images.
-  - OpenCV (Image processing): The project involved capturing screenshots of the screen and processing them to extract useful data.
+  - **Pyautogui:** Learned how to automate GUI interactions using the pyautogui library.
+  - **Tesseract:** Gained hands-on experience with OCR using Tesseract to extract text from images.
+  - **OpenCV (Image processing):** The project involved capturing screenshots of the screen and processing them to extract useful data.
 
 ## Overview
 This is a library that transforms Microsoft Paint into a basic GUI window.
