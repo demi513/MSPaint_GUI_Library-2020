@@ -18,5 +18,4 @@ This is a library that transforms Microsoft Paint into a basic GUI window.
 
 ## Setup
   - Clone the repo
-  - Setup environment with `requirements.txt`
   - Download and install Tesseract and place it under `MSPaint_GUI_Lib-2020/Tesseract` directory
